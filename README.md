@@ -5,7 +5,7 @@ All materials shared under the CC BY-NC-SA https://creativecommons.org/licenses/
   - Non-Commercial 
   - Share alike
 
-##File descriptions
+## File descriptions
 These documents target students in the 5-9th grades, but can be used more broadly.
 - **BinaryNumbers.pdf**: Binary numbers worksheet explaining ASCII 
 - **CaesarWheel.pdf**: Caesar Cipher Wheel to print and assemble on your own
