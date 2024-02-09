@@ -17,4 +17,4 @@ Be sure to visit https://cyberpup.academy to play the fun online safety game. Th
 - **[CyberPupColoringSheet.pdf](https://github.com/shannonbeck/CyberOutreach/blob/main/CyberPupColoringSheet.pdf)**: Coloring sheet of Cyber Pup
 
 ## Presentations
-- Selected presentations given at events are shared here
+- Selected presentations, talks and slides from events are shared in the [Presentation directory](https://github.com/shannonbeck/CyberOutreach/tree/main/Presentations).
