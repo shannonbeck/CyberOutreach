@@ -16,5 +16,5 @@ These documents target students in the 5-9th grades, but can be used more broadl
 Be sure to visit https://cyberpup.academy to play the fun online safety game. The target audience is 5-9th grade students, but can be used more broadly.
 - **[CyberPupColoringSheet.pdf](https://github.com/shannonbeck/CyberOutreach/blob/main/CyberPupColoringSheet.pdf)**: Coloring sheet of Cyber Pup
 
-- ## Presentations
+## Presentations
 - Selected presentations given at events are shared here
